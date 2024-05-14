@@ -1,7 +1,3 @@
-Certainly! Here's a description for your code:
-
----
-
 **Title: Object Detection Assistance for the Visually Impaired**
 
 **Description:**
